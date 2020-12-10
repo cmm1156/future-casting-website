@@ -38,6 +38,13 @@ iframe {
   justify-content: space-around; */
 }
 
+.navbarBiblio {
+  /* position: relative; */
+  /* display: block; */
+  margin-top: -30px;
+  margin-bottom: 30px;
+}
+
 .navbar a {
   text-decoration: none;
   color: white;
@@ -85,6 +92,14 @@ iframe {
   font-size: 30px;
   margin-bottom: 20px
 }
+
+/* .mainContainerBiblio div {
+  margin-top: 100px;
+} */
+
+/* .bibliography h1 {
+  margin-bottom: 30px;
+} */
 
 
 .framingStory p, .framingMessage p {
